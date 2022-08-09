@@ -1,0 +1,54 @@
+
+
+#timer{
+display: flex;
+line-height: 1;
+padding: 20px;
+align-items: flex-start;
+justify-content: center;
+}
+
+ 
+
+
+
+#timer .time {
+  width: 25%;
+  font-size: 38px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+}
+
+
+
+#timer .time span {
+      font-weight: 600;
+      font-size: 12px;
+      display: block;
+      letter-spacing: 2px;
+      color: #000000;
+      text-transform: uppercase;
+      color: #fff;
+	  text-align:center; 
+}
+
+
+
+
+#days {
+ 
+  color: #db4844;
+}
+#hours {
+ 
+  color: #f07c22;
+}
+#minutes {
+ 
+  color: #f6da74;
+}
+#seconds {
+  font-size: 50px;
+  color: #abcd58;
+}
